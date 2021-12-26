@@ -1,7 +1,6 @@
 package com.example.demo.resource;
 
 import com.example.demo.entity.Alphabet;
-import com.example.demo.entity.Symbol;
 import com.fasterxml.jackson.annotation.JsonInclude;
 
 public class AlphabetResource extends BaseResource {

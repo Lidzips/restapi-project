@@ -1,6 +1,5 @@
 package com.example.demo.controller;
 
-import com.example.demo.entity.Alphabet;
 import com.example.demo.entity.RuleSet;
 import com.example.demo.repository.AlphabetRepository;
 import com.example.demo.repository.RuleRepository;

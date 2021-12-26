@@ -1,6 +1,5 @@
 package com.example.demo.resource;
 
-import com.example.demo.entity.Symbol;
 import com.example.demo.entity.SymbolSet;
 import com.fasterxml.jackson.annotation.JsonInclude;
 
